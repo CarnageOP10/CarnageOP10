@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
-<h3 align="center">Learning DL and passionate about data</h3>
+<h3 align="center">Passionate about Deep Learning and Generative AI</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
